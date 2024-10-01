@@ -12,12 +12,11 @@
 I am a Software programmer. PHP, HTML, SQL are the programming languages ​​I am good at, I love to learn and build something new, productive, innovative and creative.
 * **I am interested in web development**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  - Python
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- ✔ Ask me about anything, I am happy to help.<br>
+- Outside of technology, 📖 I love reading manga, 👨‍👩‍👧‍👧 spending time with my family, 🎵 listening to music, and 🐕 walking my dog.
+- 📫 Reach out to me at: <a href="jgiron5639@gmail.com">jgiron5639@gmail.com</a>
 
 __Check out my GitHub repository:__
 
