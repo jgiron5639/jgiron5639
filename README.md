@@ -1,5 +1,4 @@
 # Hi there 👋, Sebastian here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jgiron5639.repoName) [![GitHub followers](https://img.shields.io/github/followers/jgiron5639.svg?style=social&label=Follow)](https://github.com/jgiron5639?tab=followers)<br/>
 
 <!--
 **jgiron5639/jgiron5639** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
