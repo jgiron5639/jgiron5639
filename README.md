@@ -50,6 +50,5 @@ __Check out my GitHub repository:__
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jgiron5639&layout=compact)
 
 ---------------------------------------------------------------------------------------------------------------------
-Credits: <a href="https://github.com/Bhargavi-hash">Bhargavi-hash</a>
+Credits: <a href="https://github.com/jgiron5639">jgiron5639</a>
 
-Date: 18/11/2021
