@@ -26,7 +26,7 @@ __Check out my GitHub repository:__
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgiron5639&repo=conversorUnidades" alt="GitHub Stats" />
 </a>
     <a href="https://github.com/jgiron5639/gestorWeb.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Bhargavi-hash&repo=Linux-Shell-Implementation" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgiron5639-hash&repo=gestorWeb" alt="GitHub Stats" />
     </a>
   </p>
 </div>
