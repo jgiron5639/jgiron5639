@@ -30,6 +30,9 @@ __Check out my GitHub repository:__
     <a href="https://github.com/jgiron5639/calendario.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgiron5639&repo=calendario" alt="GitHub Stats" />
     </a>
+    <a href="https://github.com/jgiron5639/task-manager.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=jgiron5639&repo=task-manager" alt="GitHub Stats" />
+    </a>
   </p>
 </div>
 
